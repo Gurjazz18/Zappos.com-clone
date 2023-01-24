@@ -2,13 +2,17 @@
 It's a Masai construct week project - with 6 members
 
 # Tech-stack
-HTML
-CSS
-JAVASCRIPT
+ HTML
+ <br/>
+ CSS
+ <br/>
+ JAVASCRIPT
 
-#FUNCTIONALITY
+# FUNCTIONALITY
 login and signup
+<br/>
 filtering
+<br/>
 sorting
 
 
